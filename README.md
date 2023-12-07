@@ -18,7 +18,7 @@
 * 📂 **First Semester**
    * 🛢️Databases (DB)
    * 💂‍♂️English
-   * 🎨Advanced Methods of Programming (MAP)
+   * ♨️Advanced Methods of Programming (MAP)
    * 📉Probability and Statistics] (PS)
    * 🔥Functional and Logic Programming (PLF)
    * 🌐Computer Networks (Retele)
